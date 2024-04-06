@@ -2,7 +2,7 @@
 Working for the first time with selenium and testing steam
 
 ## Test case 1
-### Steps                        ### Expected results
+### Steps                           Expected results
 1. Go to main page                   Main page is opened
 
 2. Click ABOUT                       About page is opened
@@ -12,7 +12,7 @@ Working for the first time with selenium and testing steam
 4. Go to store page                  Store page is opened
 
 ## Test case 2
-### Steps                        ### Results
+### Steps                           Expected results
 1. Go to main page                   Main page is opened
 
 2. Hover over “New & Noteworthy”     Top Sellers page is opened
@@ -41,7 +41,7 @@ Working for the first time with selenium and testing steam
                                     Game data is equal to one we got on step 7
 
 ## Test case 3
-### Steps                        ### Results
+### Steps                          Expected results
 1. Go to main page                   Main page is opened
 
 2. Go to Community Market            Community Market page is opened
